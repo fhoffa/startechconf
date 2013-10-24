@@ -17,7 +17,7 @@ es-CL:
       time: "9:45 - 10:45"
       visualization: "global"
       type: ""
-      description:
+      description:bi
         - line: "Lea Verou:"
         - line: "More CSS secrets: Another 10 things you may not know about CSS"
     -
@@ -237,7 +237,7 @@ es-CL:
         - line: "Faster development with static types"
       track3:
         - line: "Felipe Hoffa:"
-        - line: "De open data a accessible data: Censo 2002 y BigQuery"
+        - line: "De open data a accessible data: Censo 2002 y Google BigQuery"
     -
       time: "16:20 - 16:50"
       visualization: ""
